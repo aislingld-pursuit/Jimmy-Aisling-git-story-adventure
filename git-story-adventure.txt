@@ -16,4 +16,9 @@ commit test
 test test test
 hi Aisling, I keep practice
 practice again
+<<<<<<< HEAD
 again again 
+=======
+again again 
+
+>>>>>>> 644f7907ec78561ea540d5bce348bd71fb2e5f81
