@@ -5,7 +5,16 @@ Hi Aisling, TQ for teaching me
 Doing my best!
 Now I have to get going great working with you.
 ok tq Aisling hv a blessed day
+<<<<<<< HEAD
 ok
 type
 test
 
+=======
+Test commit
+commit test
+test test test
+hi Aisling, I keep practice
+practice again
+again again 
+>>>>>>> 045cd6edde83617db2ff0e96b221a046de30a899
