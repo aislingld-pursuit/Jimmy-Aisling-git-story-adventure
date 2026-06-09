@@ -17,8 +17,17 @@ test test test
 hi Aisling, I keep practice
 practice again
 <<<<<<< HEAD
-again again 
+again again
 =======
-again again 
+again again
 
 >>>>>>> 644f7907ec78561ea540d5bce348bd71fb2e5f81
+
+Good afternoon your doing great with git and give my thanks to shawn for helping you out!
+Good thing we practicing.
+
+We need to make a new story!
+
+So look tell me if it updated correctly.
+
+So it should be working now.
