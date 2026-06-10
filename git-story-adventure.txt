@@ -14,8 +14,8 @@ commit test
 test test test
 hi Aisling, I keep practice
 practice again
-again again 
-again again 
+again again
+again again
 again again
 
 Good afternoon your doing great with git and give my thanks to shawn for helping you out!
@@ -29,3 +29,4 @@ So it should be working now.
 
 I need to make a new branch for my story. Can you help me with that?.
 this is my branch endingb
+Great jimmy I'm see this change on my ending!
